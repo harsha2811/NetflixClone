@@ -1,2 +1,2 @@
 # NetflixClone
-A clone webpage of Netflix.com
+This is the HTML and CSS based simple "Netflix.com" clone project.
